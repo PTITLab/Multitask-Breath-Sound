@@ -71,7 +71,7 @@ python3 training_main_lstm.py
 
 2. Go to the "*GitHub*" tab and type "*Multitask-Breath-Sound*"
 
-3. Pick a notebook an run it!
+3. Pick a notebook in "*Breath-Code/notebooks*" an run it!
 
 ### Acknowledgement
 Model Multitask SincNet is built based-on [SincNet](https://github.com/mravanelli/SincNet)
